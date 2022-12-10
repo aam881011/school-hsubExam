@@ -1,0 +1,24 @@
+.containe2 {
+  height: 100%;
+  align-content: center;
+  .card {
+    height: 470px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    .form-group {
+      a {
+        width: 150px;
+      }
+      input[type="submit"] {
+        width: 150px;
+      }
+    }
+  }
+}
+
+.social_icon {
+  right: 160px;
+  // top: -59px;
+}
